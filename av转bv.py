@@ -31,4 +31,5 @@ elif a == 2:
     print("\nAV号为：\nav" + str(bv2av(str(input()))))
 print("\n按任意键退出。")
 input()
-
+#原文链接：https://blog.csdn.net/qq_44577070/article/details/105069375
+#转载请声明
